@@ -9,9 +9,19 @@ body {
 }
 
 main {
-    background-color: white;
+    background-color: rgb(120, 217, 217);
     width: 500x;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(0, 0, 0);
+}
+
+h1 {
+    font-size: 2em;
+    color: rgb(44, 5, 81);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(112, 34, 185);
 }
